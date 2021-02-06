@@ -1,0 +1,13 @@
+biochemistry bsc
+biochemistry msci
+biomedical sciences bsc
+computer science bsc
+computer science meng
+neuroscience bsc
+neuroscience msci
+pharmacology bsc
+pharmacology msci
+bioprocessing new medicines science engineering bsc
+medical sciences engineering bsc
+medical sciences engineering msci
+applied medical sciences bsc
