@@ -1,8 +1,8 @@
 # Decision-tool-scrapers
 
 There are two scripts that when run gather data on courses for the IHE. This is achieved through web scraping. To run the scripts, just type:
-*python3 webscraper.py*
-*python3 graduateWebscraper.py*
+1) *python3 webscraper.py*
+2) *python3 graduateWebscraper.py*
 
 This will output two csv files with the required information.
 
